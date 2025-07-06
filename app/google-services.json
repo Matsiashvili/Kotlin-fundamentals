@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "331464622734",
+    "project_id": "homework2-98b0d",
+    "storage_bucket": "homework2-98b0d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:331464622734:android:1ce167ae5caa07b0867fdf",
+        "android_client_info": {
+          "package_name": "com.example.homework2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkpDeG2ZLyWnteb14GgpuNtuVzDUWLZGo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
